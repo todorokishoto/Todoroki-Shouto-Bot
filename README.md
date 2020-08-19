@@ -13,7 +13,7 @@ from discord.ext import commands
 todo = commands.Bot(command_prefix="todo.")
 ```
 
-## Second require for building bot in discord.py
+## * Second Step
 ``` python
 # we need event, for reporting if bot is ready
 
@@ -27,7 +27,7 @@ async def ping(ctx):
   await ctx.send("Pong!")
 ```
 
-## Third require for building bot in discord.py
+## * Third Step
 
 ``` python
 SECRET = os.environ.get("TOKEN")
