@@ -66,5 +66,7 @@ TOKEN=YOU_BOT_TOKEN
  ## Visit Me On [top.gg](https://top.gg) 💤
 > [Click and Click Here](https://top.gg/bot/714330708365148190)
 
-## Fork This Repo 💕
+## About This Repo 💕
 > How to fork this repo? Just click [here!](https://github.com/todorokishoto/Todoroki-Shouto-Boto/fork) and fork!
+
+> Click [Here](https://github.com/todorokishoto/Todoroki-Shouto-Bot.git) for `clone` link!
