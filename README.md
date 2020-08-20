@@ -1,6 +1,13 @@
 ## Todoroki Shouto Discord Bot
 [![Discord Bots](https://top.gg/api/widget/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 
+## Categories
+- [x] Music
+- [x] Fun
+- [x] Weebs
+- [x] My Hero Academia
+- [x] Utility
+
 ## status
 ![discord.py](https://camo.githubusercontent.com/de59962dbfaf4f3824e3274391935ae6191e44f5/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646973636f72642e70792e737667)
 [![Discord Bots](https://top.gg/api/widget/owner/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
