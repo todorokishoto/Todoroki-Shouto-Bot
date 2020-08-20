@@ -21,7 +21,7 @@
 [![Discord Bots](https://top.gg/api/widget/servers/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 [![Discord Bots](https://top.gg/api/widget/status/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 
-## About Bot And Bot 🤖
+## About Bot  🤖
 > [Invite Me Here](https://discord.com/api/oauth2/authorize?client_id=714330708365148190&permissions=8&scope=bot)
 
 > [Vote Me!](https://top.gg/bot/714330708365148190/vote)
